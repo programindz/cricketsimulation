@@ -1,4 +1,4 @@
-# cricketsimulation
+# Advanced Cricket Simulation
 An Advanced Python Simulation for Cricket using Classes and Methods..
 ## Classes Included:
   1. Player
