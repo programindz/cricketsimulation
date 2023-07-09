@@ -1,5 +1,5 @@
 # Advanced Cricket Simulation
-An Advanced Python Simulation for Cricket using Classes and Methods..
+An Advanced Python Simulation for Cricket using Classes and Methods(Object Oriented Programming)
 ## Classes Included:
   1. Player
   2. Team
